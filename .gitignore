@@ -1,0 +1,10 @@
+.vs/
+bin/
+Debug/
+html/
+latex/
+obj/
+Release/
+*.dll
+*.exe
+*.obj

@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ImageViewer - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ggrevera.SJU\LOCALS~1\Temp\RSP4E.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/ImageViewer.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\ggrevera.SJU\My Documents\csc2151\ImageViewer-students\ImageViewerDoc.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ggrevera.SJU\LOCALS~1\Temp\RSP4E.tmp" 
+Creating temporary file "C:\DOCUME~1\ggrevera.SJU\LOCALS~1\Temp\RSP4F.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ImageViewer.pdb" /debug /machine:I386 /out:"Debug/ImageViewer.exe" /pdbtype:sept 
+".\Debug\ChildFrm.obj"
+".\Debug\ImageViewer.obj"
+".\Debug\ImageViewerDoc.obj"
+".\Debug\ImageViewerView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TIFFWriter.obj"
+".\Debug\ImageViewer.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ggrevera.SJU\LOCALS~1\Temp\RSP4F.tmp"
+<h3>Output Window</h3>
+Compiling...
+ImageViewerDoc.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+ImageViewer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
